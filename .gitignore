@@ -1,0 +1,8 @@
+.*
+alx/
+svelte/
+Betty/
+
+!.gitignore
+!.git
+
