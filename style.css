@@ -182,5 +182,13 @@ table tr:last-child {
 }
 
 
-tables {
+@media (min-width: 801px) {
+  body {
+  background-color: var(--Rose-800);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
 
+}
