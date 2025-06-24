@@ -192,5 +192,7 @@ table tr:last-child {
 }
 
 .great {
+  font-family: 'arail';
+  font: 1em sans-serif;
 }
 }
